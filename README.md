@@ -1,2 +1,2 @@
 # Project_SportShopPHP
-SportShop_PHP
+SportShop_PHP & Laravel
